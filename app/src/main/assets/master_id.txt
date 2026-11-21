@@ -1,0 +1,3 @@
+# Master pendrive ID (the "Volume Serial Number" from `vol X:` on Windows).
+# Leave this line out/empty to make the first inserted drive the master instead.
+8E03-E9CE
